@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.c75a498c.chunk.css",
-    "main.js": "/static/js/main.d93858ee.chunk.js",
-    "main.js.map": "/static/js/main.d93858ee.chunk.js.map",
+    "main.js": "/static/js/main.6b40b211.chunk.js",
+    "main.js.map": "/static/js/main.6b40b211.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4e5a4d3d.js",
     "runtime-main.js.map": "/static/js/runtime-main.4e5a4d3d.js.map",
     "static/css/2.0ccb862f.chunk.css": "/static/css/2.0ccb862f.chunk.css",
-    "static/js/2.2a6d4182.chunk.js": "/static/js/2.2a6d4182.chunk.js",
-    "static/js/2.2a6d4182.chunk.js.map": "/static/js/2.2a6d4182.chunk.js.map",
+    "static/js/2.c3b1d701.chunk.js": "/static/js/2.c3b1d701.chunk.js",
+    "static/js/2.c3b1d701.chunk.js.map": "/static/js/2.c3b1d701.chunk.js.map",
     "static/js/3.377cfb60.chunk.js": "/static/js/3.377cfb60.chunk.js",
     "static/js/3.377cfb60.chunk.js.map": "/static/js/3.377cfb60.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.0ccb862f.chunk.css.map": "/static/css/2.0ccb862f.chunk.css.map",
     "static/css/main.c75a498c.chunk.css.map": "/static/css/main.c75a498c.chunk.css.map",
-    "static/js/2.2a6d4182.chunk.js.LICENSE.txt": "/static/js/2.2a6d4182.chunk.js.LICENSE.txt",
+    "static/js/2.c3b1d701.chunk.js.LICENSE.txt": "/static/js/2.c3b1d701.chunk.js.LICENSE.txt",
     "static/media/8HEUJsFEwRjUoAAAAASUVORK5CYII.f22735af.png": "/static/media/8HEUJsFEwRjUoAAAAASUVORK5CYII.f22735af.png",
     "static/media/Aikf9VBeWk8kAAAAAElFTkSuQmCC.29543390.png": "/static/media/Aikf9VBeWk8kAAAAAElFTkSuQmCC.29543390.png",
     "static/media/GN5PnG6oSHcAAAAASUVORK5CYII.1ce8f781.png": "/static/media/GN5PnG6oSHcAAAAASUVORK5CYII.1ce8f781.png",
@@ -27,6 +27,7 @@
     "static/media/friends_miia_best.b751edb9.png": "/static/media/friends_miia_best.b751edb9.png",
     "static/media/happiness_stonks.49fe0ed0.png": "/static/media/happiness_stonks.49fe0ed0.png",
     "static/media/miia_best_quiz_question.1d9a6c5e.png": "/static/media/miia_best_quiz_question.1d9a6c5e.png",
+    "static/media/miia_video.f592bab4.mp4": "/static/media/miia_video.f592bab4.mp4",
     "static/media/status_meme.7d3efacd.png": "/static/media/status_meme.7d3efacd.png",
     "static/media/unknown.9d6e89ae.png": "/static/media/unknown.9d6e89ae.png",
     "static/media/w8kSB8Wbl6GDAAAAABJRU5ErkJggg.3e0c9982.png": "/static/media/w8kSB8Wbl6GDAAAAABJRU5ErkJggg.3e0c9982.png",
@@ -37,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.4e5a4d3d.js",
     "static/css/2.0ccb862f.chunk.css",
-    "static/js/2.2a6d4182.chunk.js",
+    "static/js/2.c3b1d701.chunk.js",
     "static/css/main.c75a498c.chunk.css",
-    "static/js/main.d93858ee.chunk.js"
+    "static/js/main.6b40b211.chunk.js"
   ]
 }
